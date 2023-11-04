@@ -20,3 +20,7 @@ Official repository for all recent 64-bit (amd64) Debian-based distributions.
 Open a terminal and execute the following command:
 
     wget https://raw.githubusercontent.com/titenko/XanMod-Kernel-Automatic-Installation/master/xanmod-install.sh && chmod +x xanmod-install.sh && ./xanmod-install.sh
+
+### Author's official website
+
+Official XanMod website https://xanmod.org/
