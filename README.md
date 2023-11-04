@@ -2,7 +2,7 @@
 
 Script for automatic Xanmod kernel installation with processor compatibility check
 
-## How to install?
+### How to install?
 
 Open a terminal and execute the following command:
 
