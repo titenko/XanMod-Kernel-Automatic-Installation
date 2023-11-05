@@ -1,5 +1,7 @@
 # XanMod Kernel Automatic Installation
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftitenko%2Fxanmod-kernel-automatic-installation&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftitenko%2Fxanmod-kernel-automatic-installation)
+
 Script for automatic Xanmod kernel installation with processor compatibility check
 
 ### What is the XanMod kernel?
